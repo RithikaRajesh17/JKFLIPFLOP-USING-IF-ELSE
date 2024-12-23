@@ -63,7 +63,7 @@ end
 endmodule
 
 
-Developed by:Rithik R RegisterNumber:24900499
+Developed by:Rithika R RegisterNumber:24900499
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
